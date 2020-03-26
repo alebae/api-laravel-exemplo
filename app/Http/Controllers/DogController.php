@@ -55,6 +55,7 @@ class DogController extends Controller
         $dog->update($request->all());
     }
 
+    
     /**
      * Remove the specified resource from storage.
      *
